@@ -1,3 +1,7 @@
-export function gitdepTest(): string {
-  return "gitdep-test";
+export function greet(name: string): string {
+  return `Hello, ${name}!`;
+}
+
+export function farewell(name: string): string {
+  return `Goodbye, ${name}!`;
 }

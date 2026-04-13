@@ -1,5 +1,5 @@
 {
-  "name": "@flying-dice/gitdep-test",
+  "name": "@flying-dice/example-lib",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
